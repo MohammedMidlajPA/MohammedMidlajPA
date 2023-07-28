@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmidlajpa&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmidlajpa" /> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **WEB DESIGN,FIGMA**
+- 💬 Ask me about **WEB DESIGN,AI,ML**
 
 - 📫 How to reach me **mohammedmidlaj635@gmail.com**
 
